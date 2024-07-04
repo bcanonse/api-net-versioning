@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp",
+        "editor.maxTokenizationLineLength": 2500,
+        "editor.inlineSuggest.suppressSuggestions": false,
+        "editor.codeActionsOnSave": [
+            "source.organizeImports",
+            "source.fixAll"
+        ]
+    }
+}
