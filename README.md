@@ -37,6 +37,11 @@ Existen dos enfoques principales para versionar una API Web en .NET:
 - Desventajas: Requiere que los clientes especifiquen el encabezado de la versión.
 
 
+#### Herramientas para el Versionado:
+
+- ASP.NET Core API Versioning: Un paquete NuGet oficial que facilita el versionado en la ruta y en el encabezado.
+- Swashbuckle.AspNetCore.Versioning: Un paquete NuGet popular para documentar API con Swagger, incluyendo soporte para versionado.
+
 
 ## Conclusión:
 
